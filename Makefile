@@ -6,13 +6,13 @@
 #    By: eseferi <eseferi@student.42.fr>            +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/08/08 16:46:30 by eseferi           #+#    #+#              #
-#    Updated: 2024/04/04 13:31:57 by eseferi          ###   ########.fr        #
+#    Updated: 2024/04/08 10:45:00 by eseferi          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 # Variables
 CC           = gcc
-CFLAGS       = -Wall -Wextra -Iinc -Isrc -O3
+CFLAGS       = -Wall -Wextra -Werror -Iinc -Isrc -O3
 
 RM           = rm -rf
 CHECKER      = checker
