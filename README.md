@@ -21,6 +21,8 @@ The main operations used in this implementation are:
     rrb: Rotate stack B downwards, i.e., shift all elements down by one. The last element becomes the first.
     rrr: Equivalent to performing both rra and rrb simultaneously.
 
+For more check the [subject](subject.pdf)
+
 ## Chunk Sort Algorithm
 
 The algorithm used for sorting involves chunk sort, which breaks down the sorting process into smaller chunks. Each chunk is sorted separately, and then the sorted chunks are merged to achieve the final sorted order. Arrays are used as the primary data structure for implementing the chunk sort algorithm.
