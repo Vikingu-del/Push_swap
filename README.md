@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the implementation of the Push_swap project, which is part of the curriculum at [Your School/Institution]. Push_swap is a sorting algorithm project that aims to sort a stack of integers using a limited set of operations.
+This repository contains the implementation of the Push_swap project, which is part of the curriculum at 42 Wolfsburg. Push_swap is a sorting algorithm project that aims to sort a stack of integers using a limited set of operations.
 
 
 ## Main Operations
